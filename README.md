@@ -102,16 +102,6 @@ Para rodar os testes (se houver):
 pytest tests/
 ```
 
----
-
-## 💡 Sugestões de melhorias (Roadmap)
-
-* Implementar validação e tratamento de outliers no dataset.
-* Adicionar mais modelos (Ridge, Lasso) e seleção automática por cross-validation.
-* Endpoint API para previsões via REST (FastAPI).
-* Deploy contínuo (Heroku / Render / Vercel para frontend) e CI com GitHub Actions.
-* Página de resultados com exportação CSV / PDF.
-
 
 
 ## 🤝 Contribuição
