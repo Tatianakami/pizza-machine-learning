@@ -8,7 +8,7 @@
 
 ## 📌 Visão geral
 
-**Previsor de Preços de Pizza** é um projeto de Data Science e Machine Learning que demonstra, de forma prática e visual, como treinar um modelo de Regressão Linear para prever o preço de uma pizza a partir do seu diâmetro. A aplicação web foi construída com **Streamlit** 
+**Previsor de Preços de Pizza** é um projeto de Data Science e Machine Learning que demonstra, de forma prática e visual, como treinar um modelo de Regressão Linear para prever o preço de uma pizza a partir do seu diâmetro. A aplicação web foi construída com **Streamlit**.
 
 
 
