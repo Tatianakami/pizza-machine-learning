@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red?logo=streamlit)
-![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
+
 
 ---
 
